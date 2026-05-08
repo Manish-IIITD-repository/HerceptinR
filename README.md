@@ -66,9 +66,9 @@ HerceptinR provides a unified platform that correlates experimental assay data w
 
 ## Contact & Authors
 
-**G.P.S. Raghava** & **G.C.V. Varshney**
-CSIR-Institute of Microbial Technology, Chandigarh, India.
-**Email**: raghava@imtech.res.in / grish@imtech.res.in
+**Prof. Gajendra P.S. Raghava**
+Department of Computational Biology, Indraprastha Institute of Information Technology (IIIT-Delhi), India.
+**Email**: raghava@iiitd.ac.in
 
 ---
 
