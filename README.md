@@ -3,6 +3,7 @@
 Welcome to the official documentation for **HerceptinR**, a comprehensive database designed to help researchers and clinicians understand the molecular mechanisms behind Trastuzumab (Herceptin) resistance in breast cancer patients. Herceptin is a frontline monoclonal antibody therapy for HER2-positive breast cancer, yet approximately 70% of patients experience de novo or acquired resistance.
 
 **Web Server:** [http://crdd.osdd.net/raghava/herceptinr/](http://crdd.osdd.net/raghava/herceptinr/)
+(https://webs.iiitd.edu.in/raghava/herceptinr)
 
 ---
 
