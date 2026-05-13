@@ -14,6 +14,8 @@ Ahmad, S., Gupta, S., Kumar, R., Varshney, G. C., & Raghava, G. P. S. (2014).
 *Scientific Reports*, 4, 4483.
 [https://doi.org/10.1038/srep04483](https://doi.org/10.1038/srep04483)
 
+Zenodo:-(https://doi.org/10.5281/zenodo.20080006)
+
 ---
 
 ## About the Platform
